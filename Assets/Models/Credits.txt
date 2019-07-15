@@ -1,0 +1,17 @@
+-Hand rig-
+Credits:
+Hyper - Rigging
+Buckweat - Arm and glove texture
+Valve - Default model
+Sixtoes - Top sleeve texture
+Shaban - Top Sleeve texture recolour
+ImBrokeRU - Rigging, sculpting
+
+-AKM-
+Credits:
+ChamferZone - Model and texture
+
+-Animation-
+Creidts:
+choish1919 - Animation and Rigging
+blog.naver.com/choish1919
