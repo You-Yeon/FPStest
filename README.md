@@ -13,17 +13,17 @@ FPStest
 구현해본 기능은 총쏘기, 정조준, 반동, 산탄, 탄흔이 있습니다.
 총쏘는 방식은 히트스캔방식입니다.
 
-## Shoot
+## - Shoot
 ![shoot](https://user-images.githubusercontent.com/44610250/69211629-ff5ac380-0ba1-11ea-8c7f-5bd7252d119a.gif)
 
 </hr>
 
-## Aiming
+## - Aiming
 ![aiming](https://user-images.githubusercontent.com/44610250/69211630-ff5ac380-0ba1-11ea-86e8-3c7d69dc9305.gif)
 
 </hr>
 
-## Reload
+## - Reload
 ![reload](https://user-images.githubusercontent.com/44610250/69211631-ff5ac380-0ba1-11ea-8e62-3c54c1d250de.gif)
 
 
