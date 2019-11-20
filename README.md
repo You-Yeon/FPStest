@@ -7,6 +7,10 @@ FPStest
 개인프로젝트 TPS 물총 게임인 'Aquarium'을 개발하기 전에,   
 총 게임 개발을 익히기위해 FPS 게임 예제들을 참고하며 만든 학습 및 테스트용 프로젝트입니다.
 
+:computer: Developerment skill
+------------
+- 언어 : C#
+- 게임 엔진 : Unity v2019.1.8f1
 
 :gun: Description
 -----------
