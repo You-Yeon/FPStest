@@ -9,8 +9,19 @@ FPStest
 
 
 :gun: Description
-------------
+-----------
 
-## 총쏘기
+## Shoot
+![shoot](https://user-images.githubusercontent.com/44610250/69211629-ff5ac380-0ba1-11ea-8c7f-5bd7252d119a.gif)
+
+</hr>
+
+## Aiming
+![aiming](https://user-images.githubusercontent.com/44610250/69211630-ff5ac380-0ba1-11ea-86e8-3c7d69dc9305.gif)
+
+</hr>
+
+## Reload
+![reload](https://user-images.githubusercontent.com/44610250/69211631-ff5ac380-0ba1-11ea-8e62-3c54c1d250de.gif)
 
 
